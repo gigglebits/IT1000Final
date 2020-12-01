@@ -12,4 +12,4 @@ Mead is one of my passions. I love that it's a hobby that isn't super time consu
 
 
 
-**[Back,](WorkLife.md)** **[HOME,](README.md)** **[Next](OtherHobbies.md)**
+**[Back,](WorkLife.md)** **[Home,](README.md)** **[Next](OtherHobbies.md)**
