@@ -2,6 +2,7 @@
 ##Home Brewing Mead
 
 Mead is one of my passions. I love that it's a hobby that isn't super time consuming, but offers the benefits of helping me connect to other home brewers in the community as well as to just other people in general. It's something interesting to talk about and even people who don't care about home brewing in the slightest can appriciate a nice brewed honey wine. Below I will post a couple of links to resources to learn more about mead and/or homebrewing.
+![WEB_Mead.jpg]
 
 - [Some Mead History](https://www.irishexaminer.com/property/homeandoutdoors/arid-20377522.html "Irish Examiner")
 
