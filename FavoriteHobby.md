@@ -12,4 +12,4 @@ Mead is one of my passions. I love that it's a hobby that isn't super time consu
 
 
 
-**[Back,](https://gigglebits.github.io/IT1000Final/WorkLife.html)** **[Home,](https://gigglebits.github.io/IT1000Final/README.html)** **[Next](https://gigglebits.github.io/IT1000Final/OtherInterests.html)**
+**[Back,](WorkLife.md)** **[Home,](README.md)** **[Next](OtherInterests.md)**
