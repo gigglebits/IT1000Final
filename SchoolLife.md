@@ -8,3 +8,5 @@
       Fast forward to today and I am now a Junior in the IT program and am an inactive member in a few honors societies as well as an active member in the Mizzou Human's vs. Zombies club. 
       
 **[Back](https://gigglebits.github.io/IT1000Final/ "Back to Home")** **[Next](https://gigglebits.github.io/IT1000Final/WorkLife.md "To work life")**
+
+.
