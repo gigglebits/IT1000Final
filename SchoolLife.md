@@ -6,5 +6,5 @@ After high school I decided not to go straight to college. I didn't feel I was v
     
 Fast forward to today and I am now a Junior in the IT program and am an inactive member in a few honors societies as well as an active member in the Mizzou Human's vs. Zombies club. 
       
-**[Back](README.md "Back to Home")** **[Next](WorkLife.md "To work life")**
+**[Back,](README.md "Back to Home")** **[Next](WorkLife.md "To work life")**
 
