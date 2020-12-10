@@ -10,7 +10,7 @@ At the moment I am studying to get my license to buy and sell real estate. I als
  var imageURL = "https://images.adsttc.com/media/images/5e1d/02c3/3312/fd58/9c00/06e9/large_jpg/NewHouse_SA_Photo_01.jpg"
  var alternate = "house"
  
- function myFunction() = document.getElementById("scriptImage").InnerHTML = "<img src= imageURL alt= alternate"
+ function myFunction() = document.getElementById("scriptImage").InnerHTML = "<img src='imageURL' alt='alternate'"
     </script>
   
 ### Coffee
