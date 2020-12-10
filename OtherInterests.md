@@ -13,11 +13,12 @@ I think making apps and coding in general is just super fascinating!
 ### Cyber Security
 Cyber Security is a lot of fun and I love the idea of hacking. I would be a hacking vigilante, but I'm also a coward who doesn't like to break the law. So hopefully I can do some white hat hacking in the future. 
 
-<div class="addText">
+<div>
+  <h1 id="addText"></h1>
   </div>
 <script language="JavaScript" type="text/javascript">
 function myFunction() { 
-  var presentText = document.getElementByID("addText")
+  var presentText = document.getElementById("addText")
   presentText.innerHTML="Thank You for Visiting!";
 } 
     </script>
