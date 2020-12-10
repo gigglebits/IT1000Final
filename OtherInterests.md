@@ -1,4 +1,4 @@
-<h1 id="Header>Other Interests</h1>
+<h1 id="Header">Other Interests</h1>
 
 ### Real Estate
 At the moment I am studying to get my license to buy and sell real estate. I also have experience working with real estate investment corporations with I was in the Marine Corps. 
