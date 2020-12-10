@@ -8,7 +8,7 @@ At the moment I am studying to get my license to buy and sell real estate. I als
  
 <button onclick="myFunction()">Click me</button>
 
-<script>
+<SCRIPT LANGUAGE="JavaScript" type="text/javascript">
 var img = new Image(); 
 var div = document.getElementById('scriptImage'); 
  
