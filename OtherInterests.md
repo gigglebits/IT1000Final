@@ -2,8 +2,10 @@
 
 ### Real Estate
 At the moment I am studying to get my license to buy and sell real estate. I also have experience working with real estate investment corporations with I was in the Marine Corps. 
+
 <div id=scriptImage>
  </div>
+ 
 <button onclick="myFunction()">Click me</button>
 
 <script>
