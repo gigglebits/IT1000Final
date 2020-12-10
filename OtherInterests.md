@@ -1,4 +1,4 @@
-# Other Hobbies
+<h1 id="Header>Other Interests</h1>
 
 ### Real Estate
 At the moment I am studying to get my license to buy and sell real estate. I also have experience working with real estate investment corporations with I was in the Marine Corps. 
@@ -17,7 +17,7 @@ Cyber Security is a lot of fun and I love the idea of hacking. I would be a hack
 
 <script language="JavaScript" type="text/javascript">
 myFunction() { 
-  document.write("Thank You for Visiting!");
+  document.getElementById("Header").innerHTML="Thank You for Visiting!";
 }; 
     </script>
 
