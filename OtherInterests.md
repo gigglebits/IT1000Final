@@ -16,7 +16,7 @@ Cyber Security is a lot of fun and I love the idea of hacking. I would be a hack
 <script language="JavaScript" type="text/javascript">
 myFunction() { 
   document.getElementById("Header").innerHTML="Thank You for Visiting!";
-}; 
+} 
     </script>
     
 <button onclick="myFunction()">Click me</button>
