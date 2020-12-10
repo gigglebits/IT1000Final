@@ -1,4 +1,4 @@
-<h1 id="Header">Other Interests</h1>
+<h1 class="Header">Other Interests</h1>
 
 ### Real Estate
 At the moment I am studying to get my license to buy and sell real estate. I also have experience working with real estate investment corporations with I was in the Marine Corps. 
@@ -13,12 +13,12 @@ I think making apps and coding in general is just super fascinating!
 ### Cyber Security
 Cyber Security is a lot of fun and I love the idea of hacking. I would be a hacking vigilante, but I'm also a coward who doesn't like to break the law. So hopefully I can do some white hat hacking in the future. 
 
+<div class="Header">
+  </div>
 <script language="JavaScript" type="text/javascript">
 function myFunction() { 
-  var presentText = document.getElementById("Header")
+  var presentText = document.getElementByClass("Header")
   presentText.innerHTML="Thank You for Visiting!"
-  
-  document.write="Thank You for Visiting!";
 } 
     </script>
     
