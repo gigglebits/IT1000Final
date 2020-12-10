@@ -21,4 +21,4 @@ myFunction() {
 }; 
     </script>
 
-**[Home](README.md "Go to homepage")**
+**[Home](README.md)**
