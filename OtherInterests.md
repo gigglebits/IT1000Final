@@ -17,7 +17,7 @@ Cyber Security is a lot of fun and I love the idea of hacking. I would be a hack
   </div>
 <script language="JavaScript" type="text/javascript">
 function myFunction() { 
-  var presentText = document.getElementByClass("Header")
+  var presentText = document.getElementByClassName("Header")
   presentText.innerHTML="Thank You for Visiting!";
 } 
     </script>
