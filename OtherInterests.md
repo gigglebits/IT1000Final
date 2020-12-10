@@ -14,7 +14,7 @@ I think making apps and coding in general is just super fascinating!
 Cyber Security is a lot of fun and I love the idea of hacking. I would be a hacking vigilante, but I'm also a coward who doesn't like to break the law. So hopefully I can do some white hat hacking in the future. 
 
 <script language="JavaScript" type="text/javascript">
-myFunction() { 
+function myFunction() { 
   var presentText = document.getElementById("Header")
   presentText.innerHTML="Thank You for Visiting!";
 } 
